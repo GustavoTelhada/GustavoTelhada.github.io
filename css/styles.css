@@ -52,9 +52,8 @@ header {
 
 
 section{
-  height: 100vh;
+  height: 120vh;
   color: rgb(255, 255, 255);
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -85,16 +84,26 @@ section{
 section img{
   width: 40%;
   height: 30%;
-  object-fit: cover;
+  object-fit: c;
 }
 
 
 section p{
   margin-top: 20px;
   color: #ffffff;
+  margin-right: 80px;
+  float: right;
+}
+
+section h2{
+  margin-top: 40px;
+  color: #ffffff;
   margin-right: 40px;
   float: right;
 }
+
+
+
 .bg-active{
   background-color: black;
 }
