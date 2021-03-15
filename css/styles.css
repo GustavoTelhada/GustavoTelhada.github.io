@@ -52,6 +52,7 @@ header {
 
 
 section{
+  height: 100vh;
   color: rgb(255, 255, 255);
   height: 100vh;
   display: flex;
@@ -82,10 +83,11 @@ section{
 }
 
 section img{
-  width: 60%;
-  height: 60%;
+  width: 40%;
+  height: 30%;
   object-fit: cover;
 }
+
 
 section p{
   margin-top: 20px;
