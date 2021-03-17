@@ -1,4 +1,3 @@
-
 function changebgcolor_black(){
     document.getElementById("intro-btn").style.color = "black";
 }
